@@ -5,6 +5,10 @@ import java.util.Scanner;
 
 public class EmployeePayrollService {
 	
+public class IOService {
+
+	}
+
 ArrayList<EmployeePayrollData> employeePayrolldata = new ArrayList<EmployeePayrollData>();
 	
 	public static void main(String[] args) {
